@@ -1,0 +1,13 @@
+answers:
+  outputs:
+    dev:
+      dataset: aks_test
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: elite-fabric-440417-p4
+      threads: 60
+      type: bigquery
+  target: dev
