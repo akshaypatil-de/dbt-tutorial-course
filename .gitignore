@@ -2,3 +2,6 @@
 .user.yml
 /logs
 logs
+
+id_rsa_person2
+id_rsa_person2.pub
